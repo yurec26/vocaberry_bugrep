@@ -25,13 +25,13 @@
 ### Приложение
 1. **Скриншот 1:**
    
-   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/photo_2025-02-14_23-59-51.jpg)  
+   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/screenshot_1.jpg)  
 2. **Скриншот 2:**
    
-   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/photo_1_2025-02-14_23-54-29.jpg)  
+   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/screenshot_2.jpg)  
 3. **Скриншот 3:**
 
-   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/photo_3_2025-02-14_23-54-29.jpg) 
+   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/screenshot_3.jpg) 
 4. **Скриншот 4:**
  
-   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/photo_2_2025-02-14_23-54-29.jpg) 
+   ![Button](https://raw.githubusercontent.com/yurec26/vocaberry_bugrep/refs/heads/main/screenshot_4.jpg) 
